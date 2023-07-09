@@ -10,16 +10,9 @@ body {
   text-align: center;
 }
 
-.share-button {
-  margin-top: 16px;
-}
-
-.share-button button {
-  margin-right: 8px;
-}
-
 img {
-  max-width: 100%;
-  height: 40rem;
+  max-width: 80%;
+  height: 80vh;
 }
+
 
