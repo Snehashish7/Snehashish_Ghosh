@@ -1,0 +1,43 @@
+.share-button {
+    margin-top: 16px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .facebook-button,
+  .twitter-button,
+  .whatsapp-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: #fff;
+    margin-right: 10px;
+  }
+  
+  .facebook-button {
+    background-color: #3b5998;
+  }
+  
+  .twitter-button {
+    background-color: #1da1f2;
+  }
+  
+  .whatsapp-button {
+    background-color: #25d366;
+  }
+  
+  .facebook-button i,
+  .twitter-button i,
+  .whatsapp-button i {
+    margin-right: 8px;
+  }
+  
